@@ -1,0 +1,1 @@
+This is a simple Python program that solves the 8-Queens problem using backtracking. It tries to place 8 queens on a chessboard so that none of them can attack each other — meaning no two queens share the same row, column, or diagonal. When you run the script, it prints a solution as an 8×8 grid with 1s showing where the queens are placed.
